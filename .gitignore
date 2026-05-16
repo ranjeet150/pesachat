@@ -8,8 +8,6 @@ dist/
 *.egg-info/
 .installed.cfg
 *.egg
-.env
-.env.*
 !.env.example
 .venv
 env/
@@ -20,3 +18,5 @@ venv/
 *.log
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
